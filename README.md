@@ -1,8 +1,8 @@
 https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:38bdf8&height=220&section=header&text=KARINA%20BAHIA&fontSize=50&fontColor=38bdf8&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20&%20Data%20Engineering&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
 
-      https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Inicializando+sistema+JARVIS...;Carregando+protocolos+de+Cyber-Segurança...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />  
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Inicializando+sistema+JARVIS...;Carregando+protocolos+de+Cyber-Segurança...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />  
 
-      https://img.shields.io/badge/STATUS-OPERACIONAL-050505?style=for-the-badge&logo=icloud&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/LOCALIZAÇÃO-MINAS%20GERAIS%2C%20BR-050505?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/UNIVERSIDADE-UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/IDIOMA-INGLÊS%20AVANÇADO-050505?style=for-the-badge&logo=googletranslate&logoColor=38bdf8&color=050505" />  
+https://img.shields.io/badge/STATUS-OPERACIONAL-050505?style=for-the-badge&logo=icloud&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/LOCALIZAÇÃO-MINAS%20GERAIS%2C%20BR-050505?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/UNIVERSIDADE-UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/IDIOMA-INGLÊS%20AVANÇADO-050505?style=for-the-badge&logo=googletranslate&logoColor=38bdf8&color=050505" />  
 
 
 ---
@@ -86,9 +86,9 @@ karina@cyber-os:~$ _
 ## 📊 [06] // TELEMETRIA DO SISTEMA (GITHUB STATS)
 
 
-      https://github-readme-stats.vercel.app/api?username=kaka.bahia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />  
-      https://github-readme-stats.vercel.app/api/top-langs/?username=kaka.bahia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />  
-      https://github-readme-streak-stats.herokuapp.com/?user=kaka.bahia&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />  
+https://github-readme-stats.vercel.app/api?username=kaka.bahia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />  
+https://github-readme-stats.vercel.app/api/top-langs/?username=kaka.bahia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />  
+https://github-readme-streak-stats.herokuapp.com/?user=kaka.bahia&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />  
 
 
 ---
