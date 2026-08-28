@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1e1b4b,100:d946ef&height=220&section=header&text=KARINA%20BAHIA&fontSize=50&fontColor=e879f9&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20&%20Data%20Engineering&descSize=16&descColor=c084fc&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Carregando+protocolos+de+Cyber-Segurança...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Carregando+protocolos...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />
   </p>
 
   <p align="center">
