@@ -9,8 +9,8 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Data-Science-050505?style=for-the-badge&logo=icloud&logoColor=e879f9&color=050505" />
     <img src="https://img.shields.io/badge/MINAS%20GERAIS%2C%20BR-050505?style=for-the-badge&logo=googlemaps&logoColor=e879f9&color=050505" />
-    <img src="https://img.shields.io/badge/UNIVERSIDADE-UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=e879f9&color=050505" />
-    <img src="https://img.shields.io/badge/IDIOMA-INGLÊS%20AVANÇADO-050505?style=for-the-badge&logo=googletranslate&logoColor=e879f9&color=050505" />
+    <img src="https://img.shields.io/badge/UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=e879f9&color=050505" />
+    <img src="https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=googletranslate&logoColor=e879f9&color=050505" />
   </p>
 </div>
 
