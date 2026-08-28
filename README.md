@@ -101,17 +101,3 @@ Unindo minha paixão pela tecnologia ao setor financeiro e de dados, cursei disc
 
 <br/>
 <br/>
-
-## 📊 [06] // TELEMETRIA DO SISTEMA (GITHUB STATS)
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kakabahia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=d946ef" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakabahia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e879f9" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakabahia&theme=vue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
-</div>
