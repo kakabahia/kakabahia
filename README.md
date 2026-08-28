@@ -1,9 +1,18 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:38bdf8&height=220&section=header&text=KARINA%20BAHIA&fontSize=50&fontColor=38bdf8&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20&%20Data%20Engineering&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
+<div align="center">
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Inicializando+sistema+JARVIS...;Carregando+protocolos+de+Cyber-Segurança...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:38bdf8&height=220&section=header&text=KARINA%20BAHIA&fontSize=50&fontColor=38bdf8&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20&%20Data%20Engineering&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
 
-https://img.shields.io/badge/STATUS-OPERACIONAL-050505?style=for-the-badge&logo=icloud&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/LOCALIZAÇÃO-MINAS%20GERAIS%2C%20BR-050505?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/UNIVERSIDADE-UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=38bdf8&color=050505" />    https://img.shields.io/badge/IDIOMA-INGLÊS%20AVANÇADO-050505?style=for-the-badge&logo=googletranslate&logoColor=38bdf8&color=050505" />  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Inicializando+sistema+JARVIS...;Carregando+protocolos+de+Cyber-Segurança...;Áreas+de+Atuação%3A+Backend+%26+Data+Engineering;Status%3A+Pronta+para+novos+desafios+de+estágio!" alt="Typing Animation" />
+  </p>
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPERACIONAL-050505?style=for-the-badge&logo=icloud&logoColor=38bdf8&color=050505" />
+    <img src="https://img.shields.io/badge/LOCALIZAÇÃO-MINAS%20GERAIS%2C%20BR-050505?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&color=050505" />
+    <img src="https://img.shields.io/badge/UNIVERSIDADE-UFSJ-050505?style=for-the-badge&logo=gradreadhat&logoColor=38bdf8&color=050505" />
+    <img src="https://img.shields.io/badge/IDIOMA-INGLÊS%20AVANÇADO-050505?style=for-the-badge&logo=googletranslate&logoColor=38bdf8&color=050505" />
+  </p>
+</div>
 
 ---
 
@@ -17,7 +26,6 @@ https://img.shields.io/badge/STATUS-OPERACIONAL-050505?style=for-the-badge&logo=
   "missao": "Transformar dados complexos em soluções eficientes e sistemas escaláveis.",
   "status_conexao": "Disponível para oportunidades de Estágio"
 }
-```
 
 Sou graduanda em **Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ)**[cite: 1]. Minha trajetória une uma forte base lógica — reconhecida em olimpíadas de matemática[cite: 1] — com experiência prática em ensino, desenvolvimento backend e análise de dados. Também amplio minha visão estratégica cursando disciplinas eletivas em **contabilidade financeira e mercado financeiro e de capitais**[cite: 1].
 
