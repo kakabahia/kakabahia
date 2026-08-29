@@ -20,7 +20,7 @@
 
 **`Desenvolvedora`**
 
-Olá! Me chamo Karina Sousa Bahia, sou natural de Salvador e atualmente tenho 20 anos. Sou graduanda em Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ), com forte interesse nas áreas de Backend e Engenharia de Dados.  Ao longo da minha trajetória acadêmica, atuo ativamente no compartilhamento de conhecimento, tendo ministrado monitorias e integrado o projeto de extensão Meninas Digitais - UFSJ (iniciativa da Sociedade Brasileira de Computação), onde ministro oficinas de tecnologia para crianças em uma ONG.  
+Olá! Me chamo Karina Sousa Bahia, sou natural de Salvador e atualmente tenho 20 anos. Sou graduanda em Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ), com forte interesse nas áreas de Backend e Engenharia de Dados.  Ao longo da minha trajetória acadêmica, atuo ativamente no compartilhamento de conhecimento, tendo ministrado monitorias e integrado o projeto de extensão Meninas Digitais - UFSJ (iniciativa da Sociedade Brasileira de Computação), onde ministro oficinas de tecnologia para crianças em uma ONG, também busco aprofundar meus conhecimentos tendo realizado um curso introdutório de ciência de dados pela Escola Superior de Redes.  
 Unindo minha paixão pela tecnologia ao setor financeiro e de dados, cursei disciplinas eletivas voltadas para o mercado financeiro e de capitais. Em meus momentos livres, foco minha energia em criar e desenvolver projetos práticos nas áreas de desenvolvimento de software e análise de dados.
 
 
