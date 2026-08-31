@@ -16,7 +16,7 @@
 
 ---
 
-# 👩🏽‍💻 Karina Bahia
+# 👩🏽‍💻 Sobre mim:
 
 **`Desenvolvedora`**
 
